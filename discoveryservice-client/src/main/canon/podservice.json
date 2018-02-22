@@ -1,0 +1,162 @@
+{
+  "canon":"0.0.1",
+  "info":{
+    "version":"0.0.1",
+    "title":"Pod discovery service for Support Portal",
+    "license":{
+      "name":"Apache2"
+    }
+  },
+  "id":"https://github.com/bruceskingle/canon/blob/master/canon-test/src/main/resources/test/podService.json",
+  "basePath":"/podservice/v2",
+  "model":{
+    "javaGenPackage":"org.symphonyoss.s2.canon.supportportal.poddiscoveryservice.canon",
+    "javaFacadePackage":"org.symphonyoss.s2.canon.supportportal.poddiscoveryservice.facade"
+  },
+  "methods":{
+    "/pods":{
+      "description":"Fetch all pods .",
+      "parameterSets":[
+        "#/components/parameterSets/pagination"
+      ],
+      "get":{
+        "response":{
+          "schema":{
+            "$ref":"#/components/schemas/PodPage"
+          }
+        }
+      }
+    }
+  },
+  "components":{
+    "schemas":{
+      "PodName":{
+        "description":"A Symphony external pod ID.",
+        "type":"string"
+      },
+      "Cursor":{
+        "description":"An opaque token returned by the server to allow the next page to be requested.",
+        "type":"string",
+        "format":"byte"
+      },
+      "CursorLimit":{
+        "description":"A cursor limit, the max number of records to return.",
+        "type":"integer",
+        "format":"int32",
+        "minimum":0,
+        "maximum":50
+      },
+      "CursorInfo":{
+        "description":"Links to the next and prev pages.",
+        "type":"object",
+        "properties":{
+          "previous":{
+            "$ref":"#/components/schemas/Cursor"
+          },
+          "next":{
+            "$ref":"#/components/schemas/Cursor"
+          }
+        }
+      },
+      "PodState": {
+        "description": "State of a pod.",
+        "type": "string",
+        "enum": [
+          "active",
+          "inactive"
+        ]
+      },
+      "PodProvider": {
+        "description": "Provider of a pod.",
+        "type": "string",
+        "enum": [
+          "gcp",
+          "aws"
+        ]
+      },
+      "Pod":{
+        "type":"object",
+        "properties":{
+          "name":{
+            "$ref":"#/components/schemas/PodName"
+          },
+          "version":{
+            "description":"SBE version.",
+            "type":"string"
+          },
+          "kmVersion":{
+            "description":"KeyManager info.",
+            "type":"string"
+          },
+          "ceServiceVersion":{
+            "description":"CE Service version.",
+            "type":"string"
+          },
+          "vanity":{
+            "description":"Pod vanity.",
+            "type":"string"
+          },
+          "client":{
+            "description":"Client name.",
+            "type":"string"
+          },
+          "provider": {
+            "$ref": "#/components/schemas/PodProvider"
+          },
+          "state": {
+            "$ref": "#/components/schemas/PodState"
+          }
+        }
+      },
+      "PodList":{
+        "type":"object",
+        "properties":{
+          "data":{
+            "description":"A list of pods records.",
+            "type":"array",
+            "x-canon-cardinality":"LIST",
+            "items":{
+              "$ref":"#/components/schemas/Pod"
+            }
+          }
+        }
+      },
+      "PodPage":{
+        "type":"object",
+        "properties":{
+          "data":{
+            "description":"A list of pods records.",
+            "type":"array",
+            "x-canon-cardinality":"LIST",
+            "items":{
+              "$ref":"#/components/schemas/Pod"
+            }
+          },
+          "cursors":{
+            "$ref":"#/components/schemas/CursorInfo"
+          }
+        }
+      }
+    },
+    "parameterSets":{
+      "pagination":{
+        "cursor":{
+          "description":"Cursor position",
+          "in":"query",
+          "required":false,
+          "schema":{
+            "$ref":"#/components/schemas/Cursor"
+          }
+        },
+        "limit":{
+          "description":"max records to return",
+          "in":"query",
+          "required":false,
+          "schema":{
+            "$ref":"#/components/schemas/CursorLimit"
+          }
+        }
+      }
+    }
+  }
+}

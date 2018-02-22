@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.symphonyoss.s2.common:S2-common-dom:0.1.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/symphonyoss/s2/common/S2-common-dom/0.1.12/S2-common-dom-0.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/symphonyoss/s2/common/S2-common-dom/0.1.12/S2-common-dom-0.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/symphonyoss/s2/common/S2-common-dom/0.1.12/S2-common-dom-0.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
