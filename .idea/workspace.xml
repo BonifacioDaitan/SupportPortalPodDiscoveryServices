@@ -2,308 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4760eb4-abe5-4cfa-9fed-0f34d8a6c53a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorInfoEntity$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorInfoEntity$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorInfoEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorLimitTypeDef$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorLimitTypeDef.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorTypeDef$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorTypeDef.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/ICursorInfoEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodListEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodPageEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodsAsyncPathHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodsPathHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodserviceEntityHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodserviceModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodEntity$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodEntity$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodListEntity$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodListEntity$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodListEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodNameTypeDef$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodNameTypeDef.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodPageEntity$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodPageEntity$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodPageEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodProvider.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsAsyncPathHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsAsyncPathHandler$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsAsyncPathHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequest$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequestBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequestOrBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsPathHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsPathHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceHttpModelClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceModel.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceModelServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Cursor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Cursor$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Cursor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorLimit$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorLimit$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorLimit.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/ICursorInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPod.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodservice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodserviceModelEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage$Factory$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage$Factory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Podservice.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/discoveryservice-client-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/classes/org/symphonyoss/s2/supportportal/poddiscoveryservice/server/PodDiscoveryServiceServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/classes/org/symphonyoss/s2/supportportal/poddiscoveryservice/server/PodsAsyncHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/discoveryservice-server-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/S2-common-core-0.1.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/S2-common-dom-0.1.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/S2-common-dom-jackson-0.1.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/S2-common-http-0.1.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/animal-sniffer-annotations-1.14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/canon-runtime-java-0.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/canon-template-java-0.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/checker-qual-2.3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/commons-codec-1.10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/commons-logging-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/discoveryservice-client-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/discoveryservice-server-0.0.1-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/error_prone_annotations-2.0.18.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/fugue-core-0.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/fugue-di-0.0.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/guava-23.5-jre.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/httpasyncclient-4.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/httpclient-4.5.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/httpcore-4.4.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/httpcore-nio-4.4.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/j2objc-annotations-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jackson-annotations-2.8.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jackson-core-2.8.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jackson-databind-2.8.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/javax.servlet-api-3.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-http-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-io-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-security-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-server-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-servlet-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jetty-util-9.4.8.v20171121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/jsr305-3.0.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/logback-classic-1.0.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/logback-core-1.0.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/protobuf-java-3.2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/maven/slf4j-api-1.7.12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/tmp/docker-build.tar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SupportPortalPodDiscoveryServices.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_5_jre.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_8_v20171121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_canon_canon_runtime_java_0_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_canon_canon_template_java_0_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_common_S2_common_core_0_1_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_common_S2_common_dom_0_1_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_common_S2_common_dom_jackson_0_1_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_common_S2_common_http_0_1_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_fugue_fugue_core_0_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_symphonyoss_s2_fugue_fugue_di_0_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/discoveryservice-client.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/canon/podservice.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Cursor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorLimit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/ICursorInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodserviceModelEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Podservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/.plxarc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/AllOf/I_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/AllOf/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Array/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Model/I_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Model/I_ModelEntity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Model/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Object/I_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/Object/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/OneOf/I_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/TypeDef/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/TypeDef/_Builder.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/TypeDefBuilderProforma.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/TypeDefProforma.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/canon-proforma-java-Epilogue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/canon-proforma-java-Prologue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/canon-proforma-java-SubEpilogue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/proforma/java/canon-proforma-java-SubPrologue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/AllOf/AllOf.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/AllOf/I_Entity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/AllOf/_Entity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Array/Array.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Array/_EntityArray.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/EnumTemplate.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Model/I_EntityHandler.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Model/I_Model.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Model/_HttpModelClient.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Model/_Model.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Model/_ModelServlet.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Object/I_Entity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Object/Object.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Object/ObjectBody.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Object/ObjectHeader.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Object/_Entity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/OneOf/I_Entity.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Operation/${parent.camelCapitalizedName}${camelCapitalizedName}HttpRequest.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Operation/${parent.camelCapitalizedName}${camelCapitalizedName}HttpRequestBuilder.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Operation/${parent.camelCapitalizedName}${camelCapitalizedName}HttpRequestOrBuilder.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/GetParams.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/I_AsyncPathHandler.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/I_PathHandler.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/Path.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/_AsyncPathHandler.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/Path/_PathHandler.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/TypeDef/_.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/TypeDef/_TypeDef.java.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/TypeDefHeader.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/TypeDefTemplate.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/canon-template-java-Epilogue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/canon-template-java-Macros.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/canon-template-java-Prologue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/canon-template-java-SubEpilogue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/canon/template/java/canon-template-java-SubPrologue.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/classes/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorInfoEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorLimitTypeDef.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/CursorTypeDef.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/ICursorInfoEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodListEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodPageEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodsAsyncPathHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodsPathHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodserviceEntityHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/IPodserviceModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodListEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodNameTypeDef.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodPageEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodProvider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsAsyncPathHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequestBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsGetHttpRequestOrBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodsPathHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceHttpModelClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/generated-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodserviceModelServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-shared-archive-resources/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-shared-archive-resources/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Cursor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/CursorLimit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/ICursorInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPodserviceModelEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Pod.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/proforma-sources/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Podservice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/test-classes/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/test-classes/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-client/target/test-classes/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/discoveryservice-server.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/src/main/java/org/symphonyoss/s2/supportportal/poddiscoveryservice/server/PodDiscoveryServiceServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/src/main/java/org/symphonyoss/s2/supportportal/poddiscoveryservice/server/PodsAsyncHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/.plxarc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/classes/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/classes/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/classes/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/build.timestamp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/docker/gcr.io/sp-pod-service/podservice-server/0.0.1-SNAPSHOT/build/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-shared-archive-resources/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-shared-archive-resources/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/test-classes/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/test-classes/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discoveryservice-server/target/test-classes/META-INF/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/.plxarc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-shared-archive-resources/META-INF/DEPENDENCIES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-shared-archive-resources/META-INF/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-shared-archive-resources/META-INF/NOTICE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/discoveryservice-server/target/" />
@@ -347,12 +47,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="podservice.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="podservice.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/discoveryservice-client/src/main/canon/podservice.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
               <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -701,6 +414,7 @@
         <option value="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/Podservice.java" />
         <option value="$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/PodName.java" />
         <option value="$PROJECT_DIR$/discoveryservice-client/src/main/canon/podservice.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -958,12 +672,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519150751758</updated>
       <workItem from="1519150753355" duration="15588000" />
-      <workItem from="1519324953948" duration="6362000" />
+      <workItem from="1519324953948" duration="6929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21950000" />
+    <option name="totallyTimeSpent" value="22517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
@@ -1008,14 +722,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/discoveryservice-client/target/classes/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/canon/PodEntity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/discoveryservice-client/src/main/java/org/symphonyoss/s2/canon/supportportal/poddiscoveryservice/facade/IPod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1469,6 +1175,17 @@
         <state relative-caret-position="302">
           <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
