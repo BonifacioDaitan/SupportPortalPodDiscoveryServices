@@ -2,6 +2,8 @@
 
 In this repository you will find a basic implementation of the new pod discovery service API for Support Portal.
 
+The base for this API implementation can be found in the file: `discoveryservice-client/src/main/canon/podservice.json`
+
 The code present in here was mostly built using [Canon](https://github.com/symphonyoss/canon), using the [Canon-Example](https://github.com/symphonyoss/canon-example) as a quickstart to make it run.
 
 To run this project use the following steps:
